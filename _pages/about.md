@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Sai Krishna</strong> G V
-description: <a href="">MSc Student at Mila, Universite de Montreal</a>. Researcher
+title: <strong>Dhaivat Bhatt</strong> 
+description: <a href="">Visiting researcher MILA	, Universite de Montreal</a>. Researcher
 
 profile:
   align: right
