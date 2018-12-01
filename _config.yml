@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Sai Krishna
-email: saikrishnagv1996@gmail.com
+name: Dhaivat Bhatt
+email: dhaivat1994@gmail.com
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -17,10 +17,10 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: saikrishna-1996 # your GitHub user name
-twitter_username: saikrishna_gvs # your Twitter handle
-linkedin_username: https://www.linkedin.com/in/sai-krishna-gottipati-5b85b595 # your LinkedIn user name
-scholar_userid: 9syQKRIAAAAJ # your Google Scholar ID
+github_username: dhaivat666 # your GitHub user name
+twitter_username: dhaivat666 # your Twitter handle
+linkedin_username: https://www.linkedin.com/in/dhaivat1729/ # your LinkedIn user name
+scholar_userid: SWRDCwQAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 contact_note: >
   Which of these is the best way to reach you?
@@ -88,7 +88,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Sai Krishna
+  last_name: Dhaivat Bhatt
 
   style: apa
   locale: en
