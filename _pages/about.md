@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.JPG
   address: >
-    <p>office: 2259, Pavillon Andre Aisenstadt </p>
+    <p>Office: 2259, Pavillon Andre Aisenstadt </p>
     <p>2920 Ch de la Tour</p>
     <p>Montreal, Quebec H3T 1N8</p>
 
